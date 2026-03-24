@@ -1,0 +1,1797 @@
+('C:\\Users\\Noor Ul '
+ 'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\eBooks_Case_1_only_Subscribed_Chapters.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('eBooks_Case_1_only_Subscribed_Chapters',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\eBooks_Case_1_only_Subscribed_Chapters.py',
+   'PYSOURCE'),
+  ('selenium\\webdriver\\common\\windows\\selenium-manager.exe',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\windows\\selenium-manager.exe',
+   'BINARY'),
+  ('python313.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\python313.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-43e11ff0749b8cbe0a615c9cf6737e0e.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-43e11ff0749b8cbe0a615c9cf6737e0e.dll',
+   'BINARY'),
+  ('_lzma.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\_cffi_backend.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingft.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_imagingft.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_imaging.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\charset_normalizer\\md.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\mtrand.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_sfc64.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_philox.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_pcg64.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_mt19937.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\bit_generator.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_generator.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\random\\_common.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('yaml\\_yaml.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\yaml\\_yaml.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_webp.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_imagingtk.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_imagingcms.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\PIL\\_imagingmath.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('websockets\\speedups.cp313-win_amd64.pyd',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets\\speedups.cp313-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\python3.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-24\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-24\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('selenium-4.41.0.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\LICENSE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\LICENSE',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\METADATA',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\NOTICE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\NOTICE',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\RECORD',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\REQUESTED',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('selenium-4.41.0.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium-4.41.0.dist-info\\WHEEL',
+   'DATA'),
+  ('selenium\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\__init__.py',
+   'DATA'),
+  ('selenium\\common\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\common\\__init__.py',
+   'DATA'),
+  ('selenium\\common\\exceptions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\common\\exceptions.py',
+   'DATA'),
+  ('selenium\\py.typed',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chrome\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chrome\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chrome\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\chrome\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chromium\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chromium\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chromium\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\chromium\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\chromium\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\action_chains.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\action_chains.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\action_builder.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\action_builder.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\input_device.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\input_device.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\interaction.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\interaction.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\key_actions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_actions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\key_input.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_input.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\mouse_button.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\mouse_button.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\pointer_actions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_actions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\pointer_input.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_input.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\wheel_actions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_actions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\actions\\wheel_input.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_input.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\alert.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\alert.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\browser.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\browser.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\browsing_context.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\browsing_context.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\cdp.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\cdp.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\common.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\common.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\console.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\console.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\input.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\input.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\log.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\log.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\network.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\network.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\permissions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\permissions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\script.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\script.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\session.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\session.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\bidi\\webextension.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\webextension.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\by.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\by.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\desired_capabilities.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\desired_capabilities.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\accessibility.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\accessibility.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\animation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\animation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\audits.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\audits.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\autofill.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\autofill.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\background_service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\background_service.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\bluetooth_emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\bluetooth_emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\browser.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\browser.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\cache_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\cache_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\cast.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\cast.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\console.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\console.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\css.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\css.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\device_access.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\device_access.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\device_orientation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\device_orientation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\dom.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\dom.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\dom_debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\dom_debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\dom_snapshot.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\dom_snapshot.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\dom_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\dom_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\event_breakpoints.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\event_breakpoints.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\extensions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\extensions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\fed_cm.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\fed_cm.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\fetch.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\fetch.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\file_system.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\file_system.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\headless_experimental.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\headless_experimental.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\heap_profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\heap_profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\indexed_db.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\indexed_db.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\input_.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\input_.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\inspector.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\inspector.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\io.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\io.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\layer_tree.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\layer_tree.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\log.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\log.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\media.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\media.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\memory.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\memory.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\network.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\network.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\overlay.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\overlay.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\page.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\page.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\performance.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\performance.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\performance_timeline.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\performance_timeline.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\preload.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\preload.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\pwa.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\pwa.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\py.typed',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\runtime.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\runtime.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\schema.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\schema.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\security.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\security.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\service_worker.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\service_worker.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\system_info.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\system_info.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\target.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\target.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\tethering.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\tethering.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\tracing.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\tracing.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\util.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\util.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\web_audio.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\web_audio.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v143\\web_authn.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v143\\web_authn.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\accessibility.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\accessibility.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\animation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\animation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\audits.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\audits.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\autofill.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\autofill.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\background_service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\background_service.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\bluetooth_emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\bluetooth_emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\browser.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\browser.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\cache_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\cache_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\cast.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\cast.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\console.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\console.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\css.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\css.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\device_access.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\device_access.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\device_orientation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\device_orientation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\dom.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\dom.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\dom_debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\dom_debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\dom_snapshot.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\dom_snapshot.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\dom_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\dom_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\event_breakpoints.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\event_breakpoints.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\extensions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\extensions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\fed_cm.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\fed_cm.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\fetch.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\fetch.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\file_system.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\file_system.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\headless_experimental.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\headless_experimental.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\heap_profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\heap_profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\indexed_db.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\indexed_db.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\input_.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\input_.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\inspector.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\inspector.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\io.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\io.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\layer_tree.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\layer_tree.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\log.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\log.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\media.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\media.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\memory.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\memory.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\network.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\network.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\overlay.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\overlay.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\page.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\page.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\performance.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\performance.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\performance_timeline.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\performance_timeline.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\preload.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\preload.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\pwa.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\pwa.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\py.typed',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\runtime.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\runtime.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\schema.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\schema.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\security.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\security.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\service_worker.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\service_worker.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\system_info.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\system_info.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\target.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\target.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\tethering.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\tethering.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\tracing.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\tracing.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\util.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\util.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\web_audio.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\web_audio.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v144\\web_authn.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v144\\web_authn.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\accessibility.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\accessibility.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\animation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\animation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\audits.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\audits.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\autofill.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\autofill.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\background_service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\background_service.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\bluetooth_emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\bluetooth_emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\browser.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\browser.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\cache_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\cache_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\cast.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\cast.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\console.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\console.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\css.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\css.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\device_access.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\device_access.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\device_orientation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\device_orientation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\dom.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\dom.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\dom_debugger.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\dom_debugger.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\dom_snapshot.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\dom_snapshot.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\dom_storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\dom_storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\emulation.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\emulation.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\event_breakpoints.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\event_breakpoints.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\extensions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\extensions.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\fed_cm.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\fed_cm.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\fetch.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\fetch.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\file_system.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\file_system.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\headless_experimental.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\headless_experimental.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\heap_profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\heap_profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\indexed_db.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\indexed_db.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\input_.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\input_.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\inspector.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\inspector.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\io.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\io.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\layer_tree.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\layer_tree.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\log.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\log.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\media.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\media.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\memory.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\memory.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\network.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\network.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\overlay.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\overlay.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\page.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\page.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\performance.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\performance.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\performance_timeline.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\performance_timeline.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\preload.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\preload.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\profiler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\profiler.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\pwa.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\pwa.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\py.typed',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\py.typed',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\runtime.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\runtime.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\schema.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\schema.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\security.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\security.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\service_worker.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\service_worker.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\storage.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\storage.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\system_info.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\system_info.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\target.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\target.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\tethering.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\tethering.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\tracing.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\tracing.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\util.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\util.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\web_audio.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\web_audio.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\devtools\\v145\\web_authn.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\devtools\\v145\\web_authn.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\driver_finder.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\driver_finder.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\fedcm\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\fedcm\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\fedcm\\account.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\fedcm\\account.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\fedcm\\dialog.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\fedcm\\dialog.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\keys.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\keys.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\linux\\selenium-manager',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\linux\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\common\\log.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\log.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\macos\\selenium-manager',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\macos\\selenium-manager',
+   'DATA'),
+  ('selenium\\webdriver\\common\\mutation-listener.js',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\mutation-listener.js',
+   'DATA'),
+  ('selenium\\webdriver\\common\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\print_page_options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\print_page_options.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\proxy.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\proxy.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\selenium_manager.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\selenium_manager.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\timeouts.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\timeouts.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\utils.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\utils.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\virtual_authenticator.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\virtual_authenticator.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\common\\window.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\common\\window.py',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\edge\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\edge\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\edge\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\edge\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\edge\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\edge\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\firefox_profile.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_profile.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver_prefs.json',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\ie\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\ie\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\ie\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\ie\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\ie\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\bidi_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\bidi_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\client_config.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\client_config.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\command.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\command.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\errorhandler.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\fedcm.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\fedcm.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\file_detector.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\file_detector.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\findElements.js',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\findElements.js',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\getAttribute.js',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\getAttribute.js',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\isDisplayed.js',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\isDisplayed.js',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\locator_converter.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\locator_converter.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\mobile.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\mobile.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\script_key.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\script_key.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\server.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\server.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\shadowroot.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\shadowroot.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\switch_to.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\switch_to.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\utils.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\utils.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\webelement.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py',
+   'DATA'),
+  ('selenium\\webdriver\\remote\\websocket_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\remote\\websocket_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\permissions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\permissions.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\remote_connection.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\remote_connection.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\safari\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\safari\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\abstract_event_listener.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\abstract_event_listener.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\color.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\color.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\event_firing_webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\event_firing_webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\events.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\events.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\expected_conditions.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\expected_conditions.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\relative_locator.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\relative_locator.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\select.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\select.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\ui.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\ui.py',
+   'DATA'),
+  ('selenium\\webdriver\\support\\wait.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\support\\wait.py',
+   'DATA'),
+  ('selenium\\webdriver\\webkitgtk\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\webkitgtk\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\webkitgtk\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\webkitgtk\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\webdriver.py',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\__init__.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__init__.py',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\options.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\options.py',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\service.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\service.py',
+   'DATA'),
+  ('selenium\\webdriver\\wpewebkit\\webdriver.py',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\webdriver.py',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\entry_points.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\LICENSE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\LICENSE',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\top_level.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\top_level.txt',
+   'DATA'),
+  ('attrs-25.4.0.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\attrs-25.4.0.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-25.4.0.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\attrs-25.4.0.dist-info\\METADATA',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\WHEEL',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\METADATA',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\top_level.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\top_level.txt',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\WHEEL',
+   'DATA'),
+  ('attrs-25.4.0.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\attrs-25.4.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\licenses\\LICENSE.MIT',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\licenses\\LICENSE.MIT',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\DELVEWHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\LICENSE.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\entry_points.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\WHEEL',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\RECORD',
+   'DATA'),
+  ('attrs-25.4.0.dist-info\\licenses\\LICENSE',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\attrs-25.4.0.dist-info\\licenses\\LICENSE',
+   'DATA'),
+  ('attrs-25.4.0.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\attrs-25.4.0.dist-info\\RECORD',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\METADATA',
+   'DATA'),
+  ('websockets-15.0.1.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\websockets-15.0.1.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\METADATA',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\top_level.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\LICENSE.md',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\INSTALLER',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\RECORD',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\licenses\\LICENSE.APACHE2',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\licenses\\LICENSE.APACHE2',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\RECORD',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\RECORD',
+   'DATA'),
+  ('pyreadline3-3.5.4.dist-info\\METADATA',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pyreadline3-3.5.4.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.2.4.dist-info\\WHEEL',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\numpy-2.2.4.dist-info\\WHEEL',
+   'DATA'),
+  ('trio-0.32.0.dist-info\\entry_points.txt',
+   'C:\\Users\\Noor Ul '
+   'Ain\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\trio-0.32.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\Noor Ul '
+   'Ain\\Local-Pycharm-Projects\\Case#7\\build\\eBooks_Case_1_only_Subscribed_Chapters\\base_library.zip',
+   'DATA')],
+ 'python313.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
