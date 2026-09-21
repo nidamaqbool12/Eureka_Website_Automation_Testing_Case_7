@@ -2,7 +2,7 @@ Eureka_Website_Automation_Testing_Case_7
 
 Overview
 
-This repository contains the Case_7 automation script. It is developed using Python and Selenium to automate eBooks_Case_1 (Only Subscribed Chapters) access and download actions on the Eureka website. The script was developed in PyCharm IDE.
+This repository contains the Case_7 automation script. It is developed using Python and Selenium to automate Full Books Request (eBooks_Case_1) (only Subscribed Chapters) on the Eureka website. The script was developed in PyCharm IDE.
 
 Test Case Summary:
 
